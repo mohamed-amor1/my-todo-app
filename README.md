@@ -2,7 +2,7 @@
 
 ![App Screenshot](/screenshot.png)
 
-my-todo-app is a simple To-Do app built with [React](https://reactjs.org/) and [Chakra UI](https://chakra-ui.com/).
+[my-todo-app](https://todo-app-purplegem903.vercel.app/) is a simple To-Do app built with [React](https://reactjs.org/) and [Chakra UI](https://chakra-ui.com/).
 
 ## Features
 
